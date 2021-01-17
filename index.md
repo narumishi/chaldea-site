@@ -16,6 +16,6 @@ Support multiple **users** and multiple **plans**
 ## Feedback
 
 If you have any question or advice, you could contact with:
-- Email: chaldea-support@narumi.cc
-- Github issues: https://github.com/narumishi/chaldea/issues
-- Forum: https://bbs.nga.cn/read.php?tid=24926789&_ff=540
+- Email: [chaldea-support@narumi.cc](mailto:chaldea-support@narumi.cc)
+- [Github issues](https://github.com/narumishi/chaldea/issues)
+- [NGA Forum](https://bbs.nga.cn/read.php?tid=24926789&_ff=540)
