@@ -11,7 +11,7 @@ An utility for Fate/Grand Order, helps masters planning their servants, events a
     - Owned items
 - Free Quest Planning
     - according to the lacked items to find the best effecient solution
-Support multiple **users** and multiple **plans**
+- Support multiple **users** and **plans**
 
 ## Feedback
 
