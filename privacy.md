@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /privacy.html
+---
+
 # Chaldea - Privacy Policy
 
 **Privacy Policy**
