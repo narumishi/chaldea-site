@@ -36,4 +36,4 @@ If you have any question or want the donation back, please contact me.
 
 如果有任何问题或希望退回款项，可以通过以下方式联系
 
-- Email: narumi@chaldea.cc
+- Email: chaldea@narumi.cc
