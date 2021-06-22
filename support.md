@@ -22,6 +22,9 @@ Donation is also welcomed, please leave a message to let me know that's donated 
 
 如果希望通过捐赠以支持本项目，请添加留言以注明用于捐赠Chaldea应用。
 
+### Buy me a coffee
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G152BDO)
+
 ### Bilibili Charge/B站充电
 [![Bilibili Charge](img/bilicharge.png)](https://space.bilibili.com/3785253)
 
@@ -36,4 +39,4 @@ If you have any question or want the donation back, please contact me.
 
 如果有任何问题或希望退回款项，可以通过以下方式联系
 
-- Email: chaldea@narumi.cc
+- Email: [narumi@chaldea.cc](mailto:narumi@chaldea.cc)
