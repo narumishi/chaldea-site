@@ -40,3 +40,24 @@ If you have any question or want the donation back, please contact me.
 如果有任何问题或希望退回款项，可以通过以下方式联系
 
 - Email: [narumi@chaldea.cc](mailto:narumi@chaldea.cc)
+
+## Sponsors
+- Received Donations
+  
+    Sponsor| Amount
+    ----- | ------
+    *友   | ¥ 66 CNY
+    d*n   | ¥ 10 CNY
+    *莫   | ¥ 20 CNY
+
+- [Bilibili Charge List](https://space.bilibili.com/3785253)
+
+所获得的捐款将用于苹果/谷歌商店开发者账号、AWS服务器的购买。
+
+Received donations will be used for purchase of Apple/Google developer account and AWS server.
+
+- Apple developer account: ¥688 CNY ($100 USD) per year
+- Google developer account: ¥162 CNY ($25 USD)
+- AWS server: about ¥1000 CNY ($150 USD) per year
+
+*\*2021/07/07 updated*
